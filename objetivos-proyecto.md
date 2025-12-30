@@ -9,4 +9,5 @@ Objetivos específicos:
 - Reducir errores en el registro.
 - Mejorar la organización de la información académica.
 - Validar correctamente los datos ingresados por los estudiantes durante la matrícula.
+reguistro y organización de datos
 
